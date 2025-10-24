@@ -2,6 +2,8 @@
 
 A modern, responsive e-commerce web application for a premium guitar shop featuring signature guitars inspired by legendary artists. Built with React and Vite.
 
+🌐 **[Live Demo](https://astabile-react-guitarla.netlify.app/)**
+
 ## 📋 Table of Contents
 
 - [About](#about)
@@ -71,7 +73,7 @@ GuitarLA is a single-page application (SPA) showcasing a curated collection of p
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/React-GuitarLA.git
+   git clone https://github.com/astabile/react-guitarLA.git
    cd React-GuitarLA
    ```
 
